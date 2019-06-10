@@ -1,0 +1,15 @@
+.products{
+    display: flex;
+    flex-flow: wrap;
+    padding: 1rem;
+    
+}
+nav{
+    background: linear-gradient(-90deg, rgb(190, 84, 84), rgb(192, 22, 169));
+    height: 50px;
+    margin-bottom: 10px;
+    font-size: 40px;
+}
+li{
+    font-size: 25px;
+}
