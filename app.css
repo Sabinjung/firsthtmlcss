@@ -4,14 +4,24 @@
     padding: 1rem;
 }
 nav{
-    background: linear-gradient(-90deg, rgb(190, 84, 84), rgb(192, 22, 169));
-    height: 50px;
+    background: linear-gradient(-90deg, #84CF6A, #16C0B0);;
+    height: 32px;
     margin-bottom: 10px;
-    font-size: 40px;
+    font-size: 28px;
 }
 li{
     font-size: 25px;
 }
 li:hover{
     color: rgb(62, 172, 153);
+}
+
+nav a{
+    text-decoration: none;
+    padding: 5px;
+    color: whitesmoke;
+}
+
+nav a:hover{
+    color: rgb(48, 77, 35)
 }
